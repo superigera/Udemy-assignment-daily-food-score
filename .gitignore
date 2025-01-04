@@ -1,0 +1,17 @@
+# Node.js用
+node_modules/
+dist/
+*.log
+*.lock
+package-lock.json
+
+# TypeScript用
+*.tsbuildinfo
+
+# OS固有ファイル
+.DS_Store
+Thumbs.db
+
+# IDE設定
+.vscode/
+.idea/
